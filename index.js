@@ -17,8 +17,9 @@ function johnLennonFacts(facts) {
 
 function iLoveTheBeatles(num) {
   var hype = [];
-}
   do {
     hype.push("I love the Beatles!");
+    num++;
   } while (num < 15);
+  return hype;
 }
