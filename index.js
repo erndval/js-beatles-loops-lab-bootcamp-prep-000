@@ -1,6 +1,6 @@
 function theBeatlesPlay(musicians, instruments) {
   var blank = {}
   for (let i = 1, i < 4, i++) {
-    blank = [...blank, '${musicians} plays {instruments}.']
+    blank = [...blank, `${musicians} plays {instruments}.`]
   }
 }
