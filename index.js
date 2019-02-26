@@ -1,4 +1,4 @@
 function theBeatlesPlay(musicians, instruments) {
   var blank = {}
-  for {
+  for (let i = )
 }
